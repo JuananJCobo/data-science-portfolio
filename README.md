@@ -29,21 +29,24 @@ By clicking on each project's title, you will be redirected to the desired repos
   </thead>
   <tbody>
       <tr>
-      <td>[Anomaly Detection in Ship Engine Data](https://github.com/JuananJCobo/anomaly-detection-in-ship-engine)</td>
+      <td><a href="https://github.com/JuananJCobo/anomaly-detection-in-ship-engine" target="_blank">Anomaly Detection in Ship Engine Data</a></td>
       <td>Python</td>
       <td>Outlier detection</td>
     </tr>
     <tr>
-      <td>[Customer Segmentation with Clustering](https://github.com/JuananJCobo/customer-segmentation)</td>
+      <td><a href="https://github.com/JuananJCobo/customer-segmentation" target="_blank">Customer Segmentation with Clustering</a></td>
       <td>Python</td>
       <td>Clustering</td>
     </tr>
     <tr>
-      <td>[Predicting Student Dropout with Supervised Learning](https://github.com/JuananJCobo/predict-student-dropout)</td>
+      <td><a href="https://github.com/JuananJCobo/predict-student-dropout" target="_blank">Predicting Student Dropout with Supervised Learning</a></td>
       <td>Python</td>
       <td>Predictive modelling with Supervised Learning (Neural Networks and gradient-based tree models)</td>
     </tr>
     <tr>
-      <td>[NLP for Customer Feedback Analysis](https://github.com/JuananJCobo/nlp-topic-modelling)</td>
+      <td><a href="https://github.com/JuananJCobo/nlp-topic-modelling" target="_blank">NLP for Customer Feedback Analysis</a></td>
       <td>Python</td>
       <td>Natural Language Processing</td>
+      </tr>
+  </tbody>
+</table>
