@@ -44,12 +44,13 @@ By clicking on each project's title, you will be redirected to the desired repos
       <td>Predictive modelling with Supervised Learning (Neural Networks and gradient-based tree models)</td>
     </tr>
     <tr>
-
-
-## Mini projects
       <td><a href="https://github.com/JuananJCobo/nlp-topic-modelling" target="_blank">NLP for Customer Feedback Analysis</a></td>
       <td>Python</td>
       <td>Natural Language Processing</td>
       </tr>
   </tbody>
 </table>
+
+
+
+## Mini projects
