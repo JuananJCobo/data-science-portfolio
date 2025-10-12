@@ -15,7 +15,7 @@ Below is a brief overview of my journey:
 - 🤖 After completing my degree, I started studying **Data Science and AI** at prestigious institutions as the **University of Cambridge (UK)** and **Georgia Institute of Technology (US)**. Over this period, I have gained advanced knowledge and hands-on experience in developing real-world solutions using **statistical methods** and **machine learning models**. This repository showcases a selection of these projects.
 
 
-## 🚀 Projects
+## Projects
 
 By clicking on each project's title, you will be redirected to the desired repository.
 
@@ -44,6 +44,9 @@ By clicking on each project's title, you will be redirected to the desired repos
       <td>Predictive modelling with Supervised Learning (Neural Networks and gradient-based tree models)</td>
     </tr>
     <tr>
+
+
+## Mini projects
       <td><a href="https://github.com/JuananJCobo/nlp-topic-modelling" target="_blank">NLP for Customer Feedback Analysis</a></td>
       <td>Python</td>
       <td>Natural Language Processing</td>
