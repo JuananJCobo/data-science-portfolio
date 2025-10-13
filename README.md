@@ -53,4 +53,3 @@ By clicking on each project's title, you will be redirected to the desired repos
 
 
 
-## Mini projects
