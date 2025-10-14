@@ -52,4 +52,8 @@ By clicking on each project's title, you will be redirected to the desired repos
 </table>
 
 
+<br>
 
+## Mini projects
+
+- [Analysing Summer Temperatures in Atlanta:](https://github.com/JuananJCobo/summer-temps-analysis) (Developed in R) Time series analysis of summer temperatures in Atlanta from 1996 to 2015. Change detection methods to detect unofficial summer end and results employed to judge whether average temperature has increased and whether summer has been ending later over the years.
