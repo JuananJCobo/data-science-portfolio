@@ -10,7 +10,7 @@ I am **Juan Antonio Jiménez Cobo**, a **Mathematician from Granada (Spain)** cu
 
 Below is a brief overview of my journey:
 
-- 🎓 I completed the **Bachelor's Degree in Mathematics at the University of Granada**, including one year abroad at the **University of Graz (Austria)**. During this time, I built strong foundations in Mathematics and gained deep understanding in some areas such as **Statistics, Probability Theory, Statistical Inference, Optimisation, Linear Algebra, Analysis, and Numerical Methods**.
+- 🎓 I completed the **Bachelor's Degree in Mathematics at the University of Granada**, including one year abroad coursing the Master's degree in Mathematics at the **University of Graz (Austria)**. During this time, I built strong foundations in Mathematics and gained deep understanding in some areas such as **Statistics, Probability Theory, Statistical Inference, Optimisation, Linear Algebra, Analysis, and Numerical Methods**.
 - 📚In my **Bachelor's Thesis** called *"Mathematical modeling of the Expected Utility Theory. Implications for risk quantification.”*, I mathematically modelled the Expected Utility Theory — a key economic framework that explores how individuals make decisions under uncertainty — providing deeper insight into risk preferences and decision-making strategies.
 - 🤖 After completing my degree, I started studying **Data Science and AI** at prestigious institutions as the **University of Cambridge (UK)** and **Georgia Institute of Technology (US)**. Over this period, I have gained advanced knowledge and hands-on experience in developing real-world solutions using **statistical methods** and **machine learning models**. This repository showcases a selection of these projects.
 
