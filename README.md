@@ -1,4 +1,4 @@
-# Data Science Portfolio
+# Data Science & AI Portfolio
 This repository contains a portfolio of Data Science projects I have developed for academic and self-learning purposes. It includes work in various programming environments such as Python, R, or Arena. This portfolio is updated on a regular basis.
 
 - [LinkedIn](https://www.linkedin.com/in/juan-antonio-jiménez-cobo)
