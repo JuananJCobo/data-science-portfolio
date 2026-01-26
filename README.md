@@ -6,7 +6,7 @@ This repository showcases a portfolio of Data Science & AI projects I have devel
 
 ## ☝️ About me
 
-I am **Juan Antonio Jiménez Cobo**, a **Mathematician from Granada (Spain)** currently specialising in **Data Science and Artificial Intelligence**. I am passionate about transforming raw data into actionable, data-driven insights which do not only uncover the underlying patterns, but also create meaningful impact in business and society. My strong foundations in Mathematics allow me to approach complex challenges with an analytical mindset. 
+I am **Juan Antonio Jiménez Cobo**, a **Mathematician from Granada (Spain)**, currently specialising in **Data Science and Artificial Intelligence**. I am passionate about transforming raw data into actionable, data-driven insights which do not only uncover the underlying patterns, but also create meaningful impact in business and society. My strong foundations in Mathematics allow me to approach complex challenges with an analytical mindset. 
 
 Below is a brief overview of my journey:
 
